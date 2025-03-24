@@ -5,11 +5,17 @@ Login to the GCP :
 gcloud auth login
 
 Terraform commands to perform :
+
 Terraform init - initialize the terraform working directory and install te pluggins or modules 
+
 Terraform fmt - It is indent all the code 
+
 Terraform validate -this will check for any syntax error 
+
 Terraform plan - To check the execution plan without applying changes 
+
 terraform apply --auto-approve - To creat All the resouces  
+
 terraform destroy --auto-approve - To destroy All the resouces  
 
 Structure of the Project :
