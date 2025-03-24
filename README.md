@@ -29,5 +29,6 @@ load balncer > consist of main.tf, output.tf, variable.tf here main.tf have all 
 we have two environments 1. dev and 2. stage 
 
 dev.auto.tfvars => defines the variables for dev environment
+
 stage.auto.tfvars => defines the variable for stage environment 
 
